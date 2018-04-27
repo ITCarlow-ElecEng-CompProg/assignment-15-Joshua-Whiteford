@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517567780 source:d:\programming\lab ex\lab 15\ex 15\main.cpp
+	<iostream>
+	<tgmath.h>
+
